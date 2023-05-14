@@ -1,0 +1,11 @@
+/* Write your CSS code here */
+.profCont {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+.prof {
+  height: 50px;
+  width: 50px;
+  margin-left: 60px;
+}

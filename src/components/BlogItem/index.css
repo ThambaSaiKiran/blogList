@@ -1,0 +1,14 @@
+/* Write your CSS code here */
+.innerItem {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.outerItem {
+  display: flex;
+  flex-direction: column;
+}
+
+.title {
+  font-weight: bold;
+}
